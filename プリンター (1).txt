@@ -2,6 +2,33 @@
 ■■■192.168.160.47
 
 ■■■192.168.160.49
+name                                             Default portName
+----                                             ------- --------
+XL-9441 (リダイレクト 1)                           False TS017
+XL-9442 (リダイレクト 1)                           False TS018
+本社切断連絡用_DocuCentre C2000 (リダイレクト 1)   False TS019
+OneNote for Windows 10 (リダイレクト 1)            False TS016
+RICOH PC FAX_東日本 (リダイレクト 1)               False TS014
+RICOH PC FAX_中日本 (リダイレクト 1)               False TS013
+RICOH PC FAX Generic (リダイレクト 1)              False TS012
+RICOH PC FAX_西日本 (リダイレクト 1)               False TS015
+RICOH MP 4055_西日本 (リダイレクト 1)              False TS011
+RICOH IPSiO SP C820 RPCS (リダイレクト 1)          False TS008
+RICOH MP 4055_中日本 (リダイレクト 1)              False TS009
+RICOH MP 4055_東日本 (リダイレクト 1)              False TS010
+netprint Printer (リダイレクト 1)                  False TS006
+Microsoft XPS Document Writer (リダイレクト 1)     False TS007
+RICOH IPSiO SP C711 RPCS (リダイレクト 1)           True TS001
+DocuWorks PDF (リダイレクト 1)                     False TS002
+DocuWorks Printer (リダイレクト 1)                 False TS003
+Fax (リダイレクト 1)                               False TS004
+Microsoft Print to PDF (リダイレクト 1)            False TS005
+OneNote for Windows 10                             False Micro...
+Microsoft XPS Document Writer                      False PORTP...
+Microsoft Print to PDF                             False PORTP...
+MEGASOFT STARFAX Engine                            False STARF...
+Fax                                                False SHRFAX:
+
 ■■■192.168.160.50
 name                                              Default portName
 ----                                              ------- --------

@@ -1,37 +1,31 @@
-■■■192.168.160.21
-■■■192.168.160.22
-■■■192.168.160.23
-■■■192.168.160.24
+
 ■■■192.168.160.47
-name                                             Default portName
-----                                             ------- --------
-本社切断連絡用_DocuCentre C2000 (リダイレクト 1)   False TS019
-XL-9441 (リダイレクト 1)                           False TS017
-XL-9442 (リダイレクト 1)                           False TS018
-OneNote for Windows 10 (リダイレクト 1)            False TS016
-RICOH PC FAX_西日本 (リダイレクト 1)               False TS015
-RICOH PC FAX_東日本 (リダイレクト 1)               False TS013
-RICOH PC FAX_中日本 (リダイレクト 1)               False TS014
-RICOH PC FAX Generic (リダイレクト 1)              False TS012
-RICOH MP 4055_西日本 (リダイレクト 1)              False TS011
-Microsoft XPS Document Writer (リダイレクト 1)     False TS006
-RICOH IPSiO SP C820 RPCS (リダイレクト 1)          False TS008
-RICOH MP 4055_中日本 (リダイレクト 1)              False TS009
-RICOH MP 4055_東日本 (リダイレクト 1)              False TS010
-netprint Printer (リダイレクト 1)                  False TS007
-RICOH IPSiO SP C711 RPCS (リダイレクト 1)           True TS001
-Fax (リダイレクト 1)                               False TS004
-Microsoft Print to PDF (リダイレクト 1)            False TS005
-DocuWorks Printer (リダイレクト 1)                 False TS003
-DocuWorks PDF (リダイレクト 1)                     False TS002
-OneNote for Windows 10                             False Micro...
-Microsoft XPS Document Writer                      False PORTP...
-Microsoft Print to PDF                             False PORTP...
-MEGASOFT STARFAX Engine                            False STARF...
-Fax                                                False SHRFAX:
 
 ■■■192.168.160.49
 ■■■192.168.160.50
+name                                              Default portName
+----                                              ------- --------
+RICOH MP 4055 JPN RPCS (リダイレクト 1)             False TS014
+RICOH MP 3555_総務部複合機 (リダイレクト 1)         False TS013
+RICOH MP C5503 JPN RPCS V2 (リダイレクト 1)         False TS015
+RICOH IPSiO SP C820_総務部カラー (リダイレクト 1)   False TS012
+RICOH IPSiO SP C820 RPCS (リダイレクト 1)           False TS011
+IPSiO SP C711 (リダイレクト 1)                      False TS007
+Microsoft XPS Document Writer (リダイレクト 1)      False TS009
+netprint Printer (リダイレクト 1)                   False TS010
+Microsoft Print to PDF (リダイレクト 1)             False TS008
+FUJITSU XL-C8300 (リダイレクト 1)                   False TS006
+DocuWorks Printer (リダイレクト 1)                  False TS004
+Fax (リダイレクト 1)                                False TS005
+本社工場連絡用_DocuCentreC2000 (リダイレクト 1)      True TS001
+CubePDF (リダイレクト 1)                            False TS003
+DocuWorks PDF (リダイレクト 1)                      False TS002
+OneNote for Windows 10                              False Micro...
+Microsoft XPS Document Writer                       False PORTP...
+Microsoft Print to PDF                              False PORTP...
+MEGASOFT STARFAX Engine                             False STARF...
+Fax                                                 False SHRFAX:
+
 ■■■192.168.160.61
 name                                           Default portName
 ----                                           ------- --------

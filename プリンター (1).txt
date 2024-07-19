@@ -1,0 +1,266 @@
+■■■192.168.160.21
+■■■192.168.160.22
+■■■192.168.160.23
+■■■192.168.160.24
+■■■192.168.160.47
+■■■192.168.160.49
+■■■192.168.160.50
+■■■192.168.160.61
+name                                           Default portName
+----                                           ------- --------
+XL-9441 (リダイレクト 2)                         False TS020
+XL-9444 (リダイレクト 2)                         False TS023
+XL-9442 (リダイレクト 2)                         False TS021
+XL-9443 (リダイレクト 2)                         False TS022
+XL-9440 (リダイレクト 2)                         False TS019
+Microsoft XPS Document Writer (リダイレクト 2)   False TS009
+Microsoft Print to PDF (リダイレクト 2)          False TS008
+Fax (リダイレクト 2)                             False TS005
+XL-9440                                          False 192.168.231.100
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                            True PORTPROMPT:
+
+■■■192.168.160.62
+name                                           Default portName
+----                                           ------- --------
+XL-9441 (リダイレクト 2)                         False TS017
+XL-9442 (リダイレクト 2)                         False TS018
+Microsoft XPS Document Writer (リダイレクト 2)   False TS006
+RICOH IPSiO SP C711 RPCS (リダイレクト 2)         True TS001
+Microsoft Print to PDF (リダイレクト 2)          False TS005
+Fax (リダイレクト 2)                             False TS004
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                           False PORTPROMPT:
+
+■■■192.168.160.63
+name                                           Default portName
+----                                           ------- --------
+XL-9442 (リダイレクト 2)                         False TS018
+XL-9441 (リダイレクト 2)                         False TS017
+Microsoft XPS Document Writer (リダイレクト 2)   False TS006
+Microsoft Print to PDF (リダイレクト 2)          False TS005
+Fax (リダイレクト 2)                             False TS004
+RICOH IPSiO SP C711 RPCS (リダイレクト 2)         True TS001
+RICOH IPSiO SP C711 RPCS                         False IP_192.168.160.249
+MPC5503                                          False IP_192.168.180.90
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                           False PORTPROMPT:
+
+
+■■■192.168.160.64
+name                                           Default portName
+----                                           ------- --------
+XL-9442 (リダイレクト 2)                         False TS018
+XL-9441 (リダイレクト 2)                         False TS017
+Microsoft XPS Document Writer (リダイレクト 2)   False TS006
+Fax (リダイレクト 2)                             False TS004
+Microsoft Print to PDF (リダイレクト 2)          False TS005
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                            True PORTPROMPT:
+
+■■■192.168.160.65
+name                                           Default portName
+----                                           ------- --------
+XL-9441 (リダイレクト 1)                         False TS017
+XL-9442 (リダイレクト 1)                         False TS018
+Microsoft Print to PDF (リダイレクト 1)          False TS005
+RICOH MP 4055_西日本 (リダイレクト 1)            False TS011
+RICOH MP 4055_東日本 (リダイレクト 1)            False TS010
+RICOH IPSiO SP C820 RPCS (リダイレクト 1)        False TS008
+RICOH MP 4055_中日本 (リダイレクト 1)            False TS009
+Microsoft XPS Document Writer (リダイレクト 1)   False TS006
+Fax (リダイレクト 1)                             False TS004
+RICOH IPSiO SP C711 RPCS (リダイレクト 1)         True TS001
+XL-9444                                          False 192.168.180.72
+XL-9443                                          False 192.168.180.73
+XL-9442                                          False 192.168.180.76
+XL-9441                                          False 192.168.180.70
+XL-9440                                          False 192.168.180.71
+RICOH SP C251 JPN DDST                           False 192.168.180.79
+RICOH MP 4055_93                                 False IP_192.168.180.93
+RICOH MP 4055_92                                 False IP_192.168.180.92
+RICOH MP 4055_91                                 False IP_192.168.180.91
+RICOH MP 2554 JPN RPCS                           False IP_192.168.180.94
+RICOH IPSiO SP C820 RPCS_2                       False 192.168.180.78
+RICOH IPSiO SP C820 RPCS                         False 192.168.180.75
+RICOH IPSiO SP C711 RPCS                         False IP_192.168.160.249
+RICOH imagio MP C2801 RPCS                       False 192.168.180.96
+MPC5503                                          False IP_192.168.180.90
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                           False PORTPROMPT:
+
+■■■192.168.160.66
+name                                           Default portName
+----                                           ------- --------
+XL-9441 (リダイレクト 1)                         False TS017
+XL-9442 (リダイレクト 1)                         False TS018
+Microsoft XPS Document Writer (リダイレクト 1)   False TS006
+Fax (リダイレクト 1)                             False TS004
+Microsoft Print to PDF (リダイレクト 1)          False TS005
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                            True PORTPROMPT:
+
+■■■192.168.160.67
+name                                           Default portName
+----                                           ------- --------
+XL-9442 (リダイレクト 2)                         False TS018
+XL-9441 (リダイレクト 2)                         False TS017
+Microsoft XPS Document Writer (リダイレクト 2)   False TS006
+Microsoft Print to PDF (リダイレクト 2)          False TS005
+Fax (リダイレクト 2)                             False TS004
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                            True PORTPROMPT:
+
+■■■192.168.160.68
+name                                           Default portName
+----                                           ------- --------
+XL-9441 (リダイレクト 2)                         False TS017
+XL-9442 (リダイレクト 2)                         False TS018
+Microsoft XPS Document Writer (リダイレクト 2)   False TS006
+Fax (リダイレクト 2)                             False TS004
+Microsoft Print to PDF (リダイレクト 2)          False TS005
+RICOH IPSiO SP C711 RPCS (リダイレクト 2)         True TS001
+XL-9440                                          False 192.168.231.100
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                           False PORTPROMPT:
+
+■■■192.168.160.73
+name                                           Default portName
+----                                           ------- --------
+XL-9442 (リダイレクト 2)                         False TS018
+XL-9441 (リダイレクト 2)                         False TS017
+Fax (リダイレクト 2)                             False TS004
+Microsoft Print to PDF (リダイレクト 2)          False TS005
+Microsoft XPS Document Writer (リダイレクト 2)   False TS006
+RICOH IPSiO SP C711 RPCS (リダイレクト 2)         True TS001
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                           False PORTPROMPT:
+
+■■■192.168.160.74
+name                                           Default portName
+----                                           ------- --------
+XL-9442 (リダイレクト 2)                         False TS018
+XL-9441 (リダイレクト 2)                         False TS017
+Microsoft XPS Document Writer (リダイレクト 2)   False TS006
+Microsoft Print to PDF (リダイレクト 2)          False TS005
+RICOH IPSiO SP C711 RPCS (リダイレクト 2)         True TS001
+Fax (リダイレクト 2)                             False TS004
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                           False PORTPROMPT:
+
+■■■192.168.160.76
+name                                           Default portName
+----                                           ------- --------
+XL-9442 (リダイレクト 2)                         False TS018
+XL-9441 (リダイレクト 2)                         False TS017
+Microsoft XPS Document Writer (リダイレクト 2)   False TS006
+Microsoft Print to PDF (リダイレクト 2)          False TS005
+Fax (リダイレクト 2)                             False TS004
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                            True PORTPROMPT:
+
+■■■192.168.160.77
+name                                           Default portName
+----                                           ------- --------
+XL-9442 (リダイレクト 1)                         False TS018
+XL-9441 (リダイレクト 1)                         False TS017
+Microsoft XPS Document Writer (リダイレクト 1)   False TS006
+Microsoft Print to PDF (リダイレクト 1)          False TS005
+Fax (リダイレクト 1)                             False TS004
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                            True PORTPROMPT:
+
+■■■192.168.160.81
+name                                           Default portName
+----                                           ------- --------
+XL-9442 (リダイレクト 2)                         False TS018
+XL-9441 (リダイレクト 2)                         False TS017
+Microsoft XPS Document Writer (リダイレクト 2)   False TS006
+Fax (リダイレクト 2)                             False TS004
+Microsoft Print to PDF (リダイレクト 2)          False TS005
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                            True PORTPROMPT:
+
+■■■192.168.160.83
+name                                           Default portName
+----                                           ------- --------
+XL-9442 (リダイレクト 1)                         False TS018
+XL-9441 (リダイレクト 1)                         False TS017
+Microsoft Print to PDF (リダイレクト 1)          False TS005
+Fax (リダイレクト 1)                             False TS004
+Microsoft XPS Document Writer (リダイレクト 1)   False TS006
+RICOH IPSiO SP C711 RPCS (リダイレクト 1)         True TS001
+RICOH IPSiO SP C711 RPCS                         False IP_192.168.160.249
+MPC5503                                          False IP_192.168.180.90
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                           False PORTPROMPT:
+
+■■■192.168.160.84
+name                                           Default portName
+----                                           ------- --------
+Microsoft XPS Document Writer (リダイレクト 2)   False TS006
+Microsoft Print to PDF (リダイレクト 2)          False TS005
+Fax (リダイレクト 2)                             False TS004
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                            True PORTPROMPT:
+
+■■■192.168.160.85
+name                                           Default portName
+----                                           ------- --------
+XL-9441 (リダイレクト 2)                         False TS017
+RICOH MP 4055_西日本 (リダイレクト 2)            False TS011
+RICOH MP 4055_中日本 (リダイレクト 2)            False TS009
+RICOH MP 4055_東日本 (リダイレクト 2)            False TS010
+Microsoft Print to PDF (リダイレクト 2)          False TS005
+Microsoft XPS Document Writer (リダイレクト 2)   False TS006
+RICOH IPSiO SP C820 RPCS (リダイレクト 2)        False TS008
+Fax (リダイレクト 2)                             False TS004
+RICOH IPSiO SP C711 RPCS (リダイレクト 2)         True TS001
+XL-9444                                          False 192.168.180.72
+XL-9443                                          False 192.168.180.73
+XL-9442                                          False 192.168.180.76
+XL-9441                                          False 192.168.180.70
+XL-9440                                          False 192.168.180.71
+RICOH MP 4055_93                                 False IP_192.168.180.93
+RICOH MP 4055_92                                 False IP_192.168.180.92
+RICOH MP 4055_91                                 False IP_192.168.180.91
+RICOH IPSiO SP C820 RPCS_2                       False 192.168.180.78
+RICOH IPSiO SP C820 RPCS                         False 192.168.180.75
+RICOH IPSiO SP C711 RPCS                         False IP_192.168.249
+RICOH imagio MP C2801 RPCS                       False 192.168.180.96
+MPC5503                                          False IP_192.168.294
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                           False PORTPROMPT:
+
+■■■192.168.160.86
+name                                           Default portName
+----                                           ------- --------
+XL-9444 (リダイレクト 2)                         False TS023
+XL-9443 (リダイレクト 2)                         False TS022
+XL-9442 (リダイレクト 2)                         False TS021
+XL-9441 (リダイレクト 2)                         False TS020
+XL-9440 (リダイレクト 2)                         False TS019
+Microsoft Print to PDF (リダイレクト 2)          False TS008
+Microsoft XPS Document Writer (リダイレクト 2)   False TS009
+Fax (リダイレクト 2)                             False TS005
+XL-9440                                           True 192.168.231.100
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                           False PORTPROMPT:
+EPSON-M7050 (PX-M7050 Series)                    False 192.168.231.249
+
+■■■192.168.160.87
+name                                           Default portName
+----                                           ------- --------
+XL-9442 (リダイレクト 2)                         False TS021
+XL-9441 (リダイレクト 2)                         False TS020
+XL-9443 (リダイレクト 2)                         False TS022
+XL-9444 (リダイレクト 2)                         False TS023
+XL-9440 (リダイレクト 2)                         False TS019
+Microsoft Print to PDF (リダイレクト 2)          False TS008
+Microsoft XPS Document Writer (リダイレクト 2)   False TS009
+Fax (リダイレクト 2)                             False TS005
+XL-9440                                           True 192.168.231.100
+Microsoft XPS Document Writer                    False PORTPROMPT:
+Microsoft Print to PDF                           False PORTPROMPT:
+EPSON-M7050 (PX-M7050 Series)                    False 192.168.231.249
+
